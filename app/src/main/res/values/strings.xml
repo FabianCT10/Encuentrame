@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Encuentrame</string>
+    <string name="lugar_consulta_de_chip">Lugar consulta de chip</string>
+    <string name="mascotas_perdidas">Mascotas Perdidas</string>
+
+    <string-array name="tipo">
+        <item>Gato</item>
+        <item>Perro</item>
+        <item>Ave</item>
+        <item>Otro</item>
+    </string-array>
+</resources>

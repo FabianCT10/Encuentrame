@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/item1"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Item1"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/btnLogout"
+        android:title="Cerrar Sesión"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/registrarMascota"
+        android:title="Registrar Mascota"
+        app:showAsAction="never" />
+
+
+</menu>
